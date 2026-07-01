@@ -52,7 +52,7 @@ trading_bot/
 ### Clone Repository
 
 ```bash
-git clone <https://github.com/SnehaPadhy22/binance-futures-trading-bot.git>
+git clone https://github.com/SnehaPadhy22/binance-futures-trading-bot.git
 cd trading_bot
 ```
 
