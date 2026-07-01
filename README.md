@@ -3,6 +3,11 @@
 A Python-based CLI Trading Bot that places BUY and SELL orders on the Binance Futures Testnet (USDT-M). The application supports Market and Limit orders, validates user input, logs API requests/responses, and handles errors gracefully.
 
 ---
+## Objective
+
+This project was developed as part of a Python Developer Internship assignment. The goal is to build a reusable command-line trading bot capable of placing Market and Limit orders on the Binance Futures Testnet while demonstrating clean code structure, logging, validation, and error handling.
+
+---
 
 ## Features
 
